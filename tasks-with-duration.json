@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Переделать список todos на tasks",
+    "duration": 10,
+    "completed": 1
+  },
+  {
+    "id": 2,
+    "name": "Вывод длительности рядом с названием",
+    "duration": 10,
+    "completed": 1
+  },
+  {
+    "id": 3,
+    "name": "Форма создания новых тасков",
+    "duration": 60,
+    "completed": 1
+  },
+  {
+    "id": 4,
+    "name": "Работа с сервером JSON",
+    "duration": 60,
+    "completed": 1
+  },
+  {
+    "id": 5,
+    "name": "Форма создания новых тасков",
+    "duration": 60,
+    "completed": 1
+  },
+  {
+    "id": 6,
+    "name": "Создание Loader",
+    "duration": 30,
+    "completed": 1
+  },
+  {
+    "id": 7,
+    "name": "React suspense (React.Lazy)",
+    "duration": 20,
+    "completed": 1
+  },
+  {
+    "id": 8,
+    "name": "React.Fragment",
+    "duration": 10,
+    "completed": 1
+  }
+]
